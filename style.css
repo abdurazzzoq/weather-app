@@ -46,7 +46,7 @@ header input:focus{
 }
 main
 {
-    margin-top: 20vh;
+    /* margin-top: 20vh; */
     padding: 25px 25px 50px;
     display: flex;
     align-items: center;
@@ -91,9 +91,9 @@ margin-bottom: 5px;
         flex-direction: column-reverse;
         grid-template-columns: 100%;
     }
-    main{
-        margin-top: -50px;
-    }
+    /* main{
+        margin-top: 50px;
+    } */
 } 
 
 
