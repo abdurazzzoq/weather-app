@@ -92,7 +92,7 @@ margin-bottom: 5px;
         grid-template-columns: 100%;
     }
     main{
-        margin-bottom: 150px;
+        margin-bottom: -150px;
     }
 } 
 
